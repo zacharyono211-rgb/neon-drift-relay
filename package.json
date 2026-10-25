@@ -1,0 +1,1 @@
+{"name":"neon-drift-relay","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test relay.test.mjs"},"dependencies":{"ws":"8.22.0"},"engines":{"node":">=22"}}
